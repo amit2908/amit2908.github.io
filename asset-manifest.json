@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a747952d.chunk.css",
+    "main.js": "/static/js/main.bc07148a.chunk.js",
+    "main.js.map": "/static/js/main.bc07148a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.92e1f69d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.92e1f69d.js.map",
+    "static/js/2.f20b7e9d.chunk.js": "/static/js/2.f20b7e9d.chunk.js",
+    "static/js/2.f20b7e9d.chunk.js.map": "/static/js/2.f20b7e9d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7381830388b286ac19d2fc9504451171.js": "/precache-manifest.7381830388b286ac19d2fc9504451171.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a747952d.chunk.css.map": "/static/css/main.a747952d.chunk.css.map",
+    "static/js/2.f20b7e9d.chunk.js.LICENSE": "/static/js/2.f20b7e9d.chunk.js.LICENSE",
+    "static/media/1.jpg": "/static/media/1.2bb1c7ee.jpg",
+    "static/media/1.png": "/static/media/1.dcbef1d8.png",
+    "static/media/2.png": "/static/media/2.89de80d9.png",
+    "static/media/2.jpg": "/static/media/2.e5d8b206.jpg",
+    "static/media/index.css": "/static/media/HighlandGothicLightFLF.572c5763.ttf",
+    "static/media/MarketsHome.png": "/static/media/MarketsHome.ebb22cfb.png",
+    "static/media/MarketseStore.png": "/static/media/MarketseStore.3f921988.png",
+    "static/media/advanced_sans_serif_7.ttf": "/static/media/advanced_sans_serif_7.af642988.ttf",
+    "static/media/dp2.jpeg": "/static/media/dp2.89197718.jpeg",
+    "static/media/logo.png": "/static/media/logo.d71873af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92e1f69d.js",
+    "static/js/2.f20b7e9d.chunk.js",
+    "static/css/main.a747952d.chunk.css",
+    "static/js/main.bc07148a.chunk.js"
+  ]
+}
